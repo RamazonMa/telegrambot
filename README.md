@@ -1,5 +1,5 @@
 # telegrambot
  GitHub Desktop description
 
-#telebot install
+#telebot install: 
 python -m pip install --user pyTelegramBotAPI
